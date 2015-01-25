@@ -1,0 +1,7 @@
+// Java practice
+Public class Helloworld{
+  Public Static void main{
+  System.out.println("Hello World");
+  }
+  }
+//End of Hello World
